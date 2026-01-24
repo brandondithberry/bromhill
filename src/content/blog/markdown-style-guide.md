@@ -80,16 +80,16 @@ The blockquote element represents content that is quoted from another source, op
 ### Syntax
 
 ```markdown
-| Italics   | Bold     | Code   |
+| Italics   | EB Garamond     | Code   |
 | --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
+| _italics_ | **EB Garamond** | `code` |
 ```
 
 ### Output
 
-| Italics   | Bold     | Code   |
+| Italics   | EB Garamond     | Code   |
 | --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
+| _italics_ | **EB Garamond** | `code` |
 
 ## Code Blocks
 
